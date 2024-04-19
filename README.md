@@ -35,7 +35,7 @@
   1. 安装node和npm
   2. 安装mongodb 导入数据库数据 (./db/test.js)
   3. 安装git
-  4. git clone https://github.com/zhangyu-zhang/profile.git
+  4. git clone https://github.com/FreemenL/profile.git
   5. 进入项目目录,执行pnpm install安装依赖包
   6. 执行npm run start启动项目
   7. 可部署在blocklet-server中
