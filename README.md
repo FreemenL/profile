@@ -23,6 +23,7 @@
 2. 用户背景图上传/展示功能
 3. 修改用户信息功能中的地址选择采用merta-ui的AutoComplete组件实现下模糊搜索
 4. 使用redux接管状态管理
+
 ### 运行环境:
 
   系统: macOS 10.14.6
@@ -33,7 +34,7 @@
 ### 运行步骤:
 
   1. 安装node和npm
-  2. 安装mongodb 导入数据库数据 (./db/test.js)
+  2. 安装mongodb 导入数据库数据 (./db/test.js) 创建名为test的数据库
   3. 安装git
   4. git clone https://github.com/FreemenL/profile.git
   5. 进入项目目录,执行pnpm install安装依赖包
